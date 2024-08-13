@@ -14,6 +14,12 @@ The structure of the repository is straightforward:
 ├── 1
 │ └── TwoSum.js
 
+## Problem List
+
+Below is a list of all the problems, organized by their LeetCode problem number. Click on any problem to view its solution.
+
+- [1. Two Sum](1/TwoSum.js)
+
 ## Purpose
 
 This repository serves multiple purposes:
@@ -24,7 +30,7 @@ This repository serves multiple purposes:
 
 ## How to Use
 
-If you're interested in a specific problem, navigate to the corresponding folder by its problem number and open the file to view the solution.
+If you're interested in a specific problem, navigate to the corresponding folder by its problem number or use the list above to directly access the file.
 
 ## Contact
 
