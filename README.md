@@ -9,22 +9,17 @@ The structure of the repository is straightforward:
 - Each folder is named after the **LeetCode problem number**.
 - Inside each folder, you'll find a solution file named after the **problem title**.
 
-### Example:
-
-├── 1
-│ └── TwoSum.js
-
 ## Problem List
 
 Below is a list of all the problems, organized by their LeetCode problem number. Click on any problem to view its solution(s).
 
 - **1. Two Sum**
 
-  - <a href="1/TwoSum.js" target="_blank">JavaScript</a>
-  - <a href="1/TwoSum.java" target="_blank">Java</a>
+  - [JavaScript](1/TwoSum.js)
+  - [Java](1/TwoSum.java)
 
 - **11. Container with most water**
-  - <a href="11/containerWithMostWater.js" target="_blank">JavaScript</a>
+  - [JavaScript](11/containerWithMostWater.js)
 
 ## Purpose
 
