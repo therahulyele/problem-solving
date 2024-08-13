@@ -16,9 +16,11 @@ The structure of the repository is straightforward:
 
 ## Problem List
 
-Below is a list of all the problems, organized by their LeetCode problem number. Click on any problem to view its solution.
+Below is a list of all the problems, organized by their LeetCode problem number. Click on any problem to view its solution(s).
 
-- [1. Two Sum](1/TwoSum.js)
+- **1. Two Sum**
+  - [JavaScript](1/TwoSum.js)
+  - [Java](1/TwoSum.java)
 
 ## Purpose
 
@@ -30,7 +32,7 @@ This repository serves multiple purposes:
 
 ## How to Use
 
-If you're interested in a specific problem, navigate to the corresponding folder by its problem number or use the list above to directly access the file.
+If you're interested in a specific problem, navigate to the corresponding folder by its problem number or use the list above to directly access the file. For problems with multiple solutions in different languages, choose the file corresponding to the language you prefer.
 
 ## Contact
 
