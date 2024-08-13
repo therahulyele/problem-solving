@@ -20,11 +20,11 @@ Below is a list of all the problems, organized by their LeetCode problem number.
 
 - **1. Two Sum**
 
-  - [JavaScript](1/TwoSum.js)
-  - [Java](1/TwoSum.java)
+  - <a href="1/TwoSum.js" target="_blank">JavaScript</a>
+  - <a href="1/TwoSum.java" target="_blank">Java</a>
 
 - **11. Container with most water**
-  - [JavaScript](11/containerWithMostWater.js)
+  - <a href="11/containerWithMostWater.js" target="_blank">JavaScript</a>
 
 ## Purpose
 
