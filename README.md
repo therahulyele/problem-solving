@@ -21,8 +21,11 @@ Below is a list of all the problems, organized by their LeetCode problem number.
 - **11. Container with most water**
   - [JavaScript](11/containerWithMostWater.js)
 
-- **11. Search Insert Position**
+- **35. Search Insert Position**
   - [JavaScript](35/searchInsertPosition.js)
+
+ - **118. Search Insert Position**
+  - [JavaScript](118/pascalsTriangle.js)
 
 ## Purpose
 
